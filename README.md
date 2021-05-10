@@ -1,4 +1,6 @@
-# formula
+# formula (Front End)
+
+A demo for a excel-like formula supporting grid in Clojure(script)
 
 A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
 you.
